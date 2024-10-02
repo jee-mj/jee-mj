@@ -1,6 +1,6 @@
 # jee-mj
 
-- 🔭 Check out my [nvim config](https://github.com/jee-mj/Neve) which is a customised fork of redyf's [Neve](https://github.com/redyf/Neve), a skin for [NixVim](https://github.com/nix-community/nixvim).
+- 🔭 Check out my [nvim config](https://github.com/jee-mj/Neve) which is a customised fork of redyf's [Neve](https://github.com/redyf/Neve), a config for [NixVim](https://github.com/nix-community/nixvim) inspired by [ThePrimeagen](https://www.youtube.com/c/theprimeagen).
 - 🤔 I’m currently procrastinating V2 of my [AR/VR Portfolio Experience](https://github.com/jee-mj/portfolio) in favour of my [dotFiles](https://github.com/jee-mj/dotFiles) and [contributing to NixOS](https://github.com/jee-mj/nixpkgs).
 - 💬 Ask me about art. I'm very versatile.
 - 📫 How to reach me: @jee_mj:matrix.org
