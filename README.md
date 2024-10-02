@@ -4,10 +4,6 @@
 
 ### I'm the captain of THIS ship (my repos, my rules). 🚢
 
-## Welcome
-
-Please excuse the lack of professionalism that may appear this repository. I never started coding all serious like in an enterprise environment. I started coding by reverse engineering games because otherwise I wasn't allowed to play video games.
-
 ## jee-mj
 
 - 🔭 I’m currently procrastinating V2 of my [AR/VR Portfolio Experience](https://github.com/jee-mj/portfolio) in favour of my [dotFiles](https://github.com/jee-mj/dotFiles) and [contributing to NixOS](https://github.com/jee-mj/nixpkgs).
