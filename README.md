@@ -1,9 +1,5 @@
 # Hello, World!
 
-## Message from our sponsor
-
-### I'm the captain of THIS ship (my repos, my rules). 🚢
-
 ## jee-mj
 
 - 🔭 I’m currently procrastinating V2 of my [AR/VR Portfolio Experience](https://github.com/jee-mj/portfolio) in favour of my [dotFiles](https://github.com/jee-mj/dotFiles) and [contributing to NixOS](https://github.com/jee-mj/nixpkgs).
