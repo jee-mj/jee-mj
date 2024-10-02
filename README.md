@@ -1,7 +1,6 @@
 # jee-mj
 
-- 🔭 I’m currently procrastinating V2 of my [AR/VR Portfolio Experience](https://github.com/jee-mj/portfolio) in favour of my [dotFiles](https://github.com/jee-mj/dotFiles) and [contributing to NixOS](https://github.com/jee-mj/nixpkgs).
-- 🤔 I’m looking for help with getting my foot in the door...
+- 🤔 I’m currently procrastinating V2 of my [AR/VR Portfolio Experience](https://github.com/jee-mj/portfolio) in favour of my [dotFiles](https://github.com/jee-mj/dotFiles) and [contributing to NixOS](https://github.com/jee-mj/nixpkgs).
 - 💬 Ask me about art. I'm very versatile.
 - 📫 How to reach me: @jee_mj:matrix.org
 - 😄 Pronouns: He/Him/His/They/Their
