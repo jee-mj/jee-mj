@@ -40,7 +40,9 @@ Right now I'm finishing a Bachelor of Music in songwriting and composition, so m
 - [dotFiles](https://github.com/jee-mj/dotFiles) - template flake configuration for NixOS, built for operators instead of screenshot collectors
 - [LAMB](https://github.com/jee-mj/LastAudioMemoryBuffer) - Last Audio Memory Buffer, released before Apple shipped a similar feature in Logic Pro, built entirely using AI
 
-<sub>Updated with AI assistance.</sub>
+<sub>Updated with AI assistance</sub>
+
+<sub>PS: GPT-5 mini thinks this is too unprofessional. Don't be like GPT-5 mini, it's boring.</sub>
 
 <!--
 **jee-mj/jee-mj** is a special repository because its README appears on the GitHub profile.
