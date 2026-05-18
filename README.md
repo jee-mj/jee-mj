@@ -2,7 +2,7 @@
 
 I build software, write music, and spend a suspicious amount of time making tools behave.
 
-I learned to code through ROM hacking communities in 2008, back when I was going as `beauty. proletariat`
+I learned to code through ROM hacking communities in 2008, back when I was going as `beauty. proletariat` from `eccentric. reach`
 
 Since then I've worked across programming, systems, web, data, and creative projects by doing the obvious thing: diving straight into the machinery and seeing what breaks first. 🐬
 
